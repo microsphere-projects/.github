@@ -67,6 +67,14 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-build.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-build.svg)
 
+##### [Microsphere BOM](https://github.com/microsphere-projects/microsphere-bom)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-bom)
+[![Maven Build](https://github.com/microsphere-projects/microsphere-bom/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-bom/actions/workflows/maven-build.yml)
+[![Codecov](https://codecov.io/gh/microsphere-projects/microsphere-bom/branch/main/graph/badge.svg)](https://app.codecov.io/gh/microsphere-projects/microsphere-bom)
+![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-bom.svg)
+![License](https://img.shields.io/github/license/microsphere-projects/microsphere-bom.svg)
+
 ##### [Microsphere Java](https://github.com/microsphere-projects/microsphere-java)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-java)
