@@ -126,7 +126,7 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-mybatis.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-mybatis.svg)
 
-##### 3.3 [Microsphere Hibernate]((https://github.com/microsphere-projects/microsphere-hibernate))
+##### 3.3 [Microsphere Hibernate](https://github.com/microsphere-projects/microsphere-hibernate)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-hibernate)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-hibernate/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-hibernate/actions/workflows/maven-build.yml)
