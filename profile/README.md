@@ -57,9 +57,9 @@ performance.
 
 ### Java Projects
 
-#### Infrastructure Projects
+#### 1. Infrastructure Projects
 
-##### [Microsphere Build](https://github.com/microsphere-projects/microsphere-build)
+##### 1.1 [Microsphere Build](https://github.com/microsphere-projects/microsphere-build)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-build)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-build/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-build/actions/workflows/maven-build.yml)
@@ -67,14 +67,14 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-build.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-build.svg)
 
-##### [Microsphere BOM](https://github.com/microsphere-projects/microsphere-bom)
+##### 1.2 [Microsphere BOM](https://github.com/microsphere-projects/microsphere-bom)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-bom)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-bom/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-bom/actions/workflows/maven-build.yml)
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-bom.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-bom.svg)
 
-##### [Microsphere Java](https://github.com/microsphere-projects/microsphere-java)
+##### 1.3 [Microsphere Java](https://github.com/microsphere-projects/microsphere-java)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-java)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-java/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-java/actions/workflows/maven-build.yml)
@@ -82,9 +82,9 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-java.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-java.svg)
 
-#### Spring Stack Projects
+#### 2. Spring Stack Projects
 
-##### [Microsphere Spring](https://github.com/microsphere-projects/microsphere-spring)
+##### 2.1 [Microsphere Spring](https://github.com/microsphere-projects/microsphere-spring)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-spring)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-spring/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-spring/actions/workflows/maven-build.yml)
@@ -92,7 +92,7 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-spring.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-spring.svg)
 
-##### [Microsphere Spring Boot](https://github.com/microsphere-projects/microsphere-spring-boot)
+##### 2.2 [Microsphere Spring Boot](https://github.com/microsphere-projects/microsphere-spring-boot)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-spring-boot)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-spring-boot/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-spring-boot/actions/workflows/maven-build.yml)
@@ -100,7 +100,7 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-spring-boot.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-spring-boot.svg)
 
-##### [Microsphere Spring Cloud](https://github.com/microsphere-projects/microsphere-spring-cloud)
+##### 2.3 [Microsphere Spring Cloud](https://github.com/microsphere-projects/microsphere-spring-cloud)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-spring-cloud)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-spring-cloud/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-spring-cloud/actions/workflows/maven-build.yml)
@@ -108,27 +108,9 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-spring-cloud.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-spring-cloud.svg)
 
-#### Fault-Tolerance Projects
+#### 3. DataAccess Projects
 
-##### [Microsphere Resilience4j](https://github.com/microsphere-projects/microsphere-resilience4j)
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-resilience4j)
-[![Maven Build](https://github.com/microsphere-projects/microsphere-resilience4j/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-resilience4j/actions/workflows/maven-build.yml)
-[![Codecov](https://codecov.io/gh/microsphere-projects/microsphere-resilience4j/branch/main/graph/badge.svg)](https://app.codecov.io/gh/microsphere-projects/microsphere-resilience4j)
-![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-resilience4j.svg)
-![License](https://img.shields.io/github/license/microsphere-projects/microsphere-resilience4j.svg)
-
-##### [Microsphere Sentinel](https://github.com/microsphere-projects/microsphere-sentinel)
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-sentinel)
-[![Maven Build](https://github.com/microsphere-projects/microsphere-sentinel/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-sentinel/actions/workflows/maven-build.yml)
-[![Codecov](https://codecov.io/gh/microsphere-projects/microsphere-sentinel/branch/main/graph/badge.svg)](https://app.codecov.io/gh/microsphere-projects/microsphere-sentinel)
-![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-sentinel.svg)
-![License](https://img.shields.io/github/license/microsphere-projects/microsphere-sentinel.svg)
-
-#### Ecology Projects
-
-##### [Microsphere Alibaba Druid](https://github.com/microsphere-projects/microsphere-alibaba-druid)
+##### 3.1 [Microsphere Alibaba Druid](https://github.com/microsphere-projects/microsphere-alibaba-druid)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-alibaba-druid)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-alibaba-druid/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-alibaba-druid/actions/workflows/maven-build.yml)
@@ -136,7 +118,7 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-alibaba-druid.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-alibaba-druid.svg)
 
-##### [Microsphere MyBatis](https://github.com/microsphere-projects/microsphere-mybatis)
+##### 3.2 [Microsphere MyBatis](https://github.com/microsphere-projects/microsphere-mybatis)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-mybatis)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-mybatis/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-mybatis/actions/workflows/maven-build.yml)
@@ -144,7 +126,15 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-mybatis.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-mybatis.svg)
 
-##### [Microsphere Redis](https://github.com/microsphere-projects/microsphere-redis)
+##### 3.3 [Microsphere Hibernate]((https://github.com/microsphere-projects/microsphere-hibernate))
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-hibernate)
+[![Maven Build](https://github.com/microsphere-projects/microsphere-hibernate/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-hibernate/actions/workflows/maven-build.yml)
+[![Codecov](https://codecov.io/gh/microsphere-projects/microsphere-hibernate/branch/main/graph/badge.svg)](https://app.codecov.io/gh/microsphere-projects/microsphere-hibernate)
+![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-hibernate.svg)
+![License](https://img.shields.io/github/license/microsphere-projects/microsphere-hibernate.svg)
+
+##### 3.4 [Microsphere Redis](https://github.com/microsphere-projects/microsphere-redis)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-redis)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-redis/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-redis/actions/workflows/maven-build.yml)
@@ -152,9 +142,29 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-redis.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-redis.svg)
 
-#### Integration Projects
 
-##### [Microsphere Internationalisation](https://github.com/microsphere-projects/microsphere-i18n)
+#### 4. Fault-Tolerance Projects
+
+##### 4.1 [Microsphere Resilience4j](https://github.com/microsphere-projects/microsphere-resilience4j)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-resilience4j)
+[![Maven Build](https://github.com/microsphere-projects/microsphere-resilience4j/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-resilience4j/actions/workflows/maven-build.yml)
+[![Codecov](https://codecov.io/gh/microsphere-projects/microsphere-resilience4j/branch/main/graph/badge.svg)](https://app.codecov.io/gh/microsphere-projects/microsphere-resilience4j)
+![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-resilience4j.svg)
+![License](https://img.shields.io/github/license/microsphere-projects/microsphere-resilience4j.svg)
+
+##### 4.2 [Microsphere Sentinel](https://github.com/microsphere-projects/microsphere-sentinel)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-sentinel)
+[![Maven Build](https://github.com/microsphere-projects/microsphere-sentinel/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-sentinel/actions/workflows/maven-build.yml)
+[![Codecov](https://codecov.io/gh/microsphere-projects/microsphere-sentinel/branch/main/graph/badge.svg)](https://app.codecov.io/gh/microsphere-projects/microsphere-sentinel)
+![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-sentinel.svg)
+![License](https://img.shields.io/github/license/microsphere-projects/microsphere-sentinel.svg)
+
+
+#### 5. Integration Projects
+
+##### 5.1 [Microsphere Internationalisation](https://github.com/microsphere-projects/microsphere-i18n)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-i18n)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-i18n/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-i18n/actions/workflows/maven-build.yml)
@@ -162,7 +172,7 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-i18n.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-i18n.svg)
 
-##### [Microsphere Gateway](https://github.com/microsphere-projects/microsphere-gateway)
+##### 5.2 [Microsphere Gateway](https://github.com/microsphere-projects/microsphere-gateway)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-gateway)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-gateway/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-gateway/actions/workflows/maven-build.yml)
@@ -170,7 +180,7 @@ performance.
 ![Maven](https://img.shields.io/maven-central/v/io.github.microsphere-projects/microsphere-gateway.svg)
 ![License](https://img.shields.io/github/license/microsphere-projects/microsphere-gateway.svg)
 
-##### [Microsphere Multiactive](https://github.com/microsphere-projects/microsphere-multiactive)
+##### 5.3 [Microsphere Multiactive](https://github.com/microsphere-projects/microsphere-multiactive)
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/microsphere-projects/microsphere-multiactive)
 [![Maven Build](https://github.com/microsphere-projects/microsphere-multiactive/actions/workflows/maven-build.yml/badge.svg)](https://github.com/microsphere-projects/microsphere-multiactive/actions/workflows/maven-build.yml)
